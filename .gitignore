@@ -3,3 +3,11 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+doc-lab2/old/
+doc-lab2/*.aux
+doc-lab2/*.fdb_latexmk
+doc-lab2/*.fls
+doc-lab2/*.log
+doc-lab2/*.out
+doc-lab2/*.synctex.gz
+doc-lab2/*.toc
